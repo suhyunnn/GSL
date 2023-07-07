@@ -1,0 +1,2 @@
+     $ ./a.out > interp.dat
+     $ graph -T ps < interp.dat > interp.ps
